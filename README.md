@@ -2,7 +2,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=sameerkhan05&color=blue)
 
-## 🚀 About Me
+## About Me
 I'm a passionate MCA student with a strong interest in software development and a love for learning new technologies. I thrive on solving problems and building efficient solutions.
 
 ## 🛠️ Skills
