@@ -31,5 +31,5 @@ I am an MCA student with a strong focus on software development, continually lea
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sameerkhan05&layout=compact&theme=default)
 ![Commits](https://github-readme-streak-stats.herokuapp.com/?user=sameerkhan05&theme=default)
 
-## ✨ Thank you for visiting my profile!
-Feel free to reach out if you have any questions or if you want to collaborate on a project. Let's build something amazing together!
+## Thank you for visiting my profile!
+
