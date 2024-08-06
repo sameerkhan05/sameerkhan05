@@ -23,7 +23,7 @@ A college project built with React and Node.js to manage leave applications.
 
 ## 🌐 Connect with Me
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sameer-khan-ba13641ba/)
-- 📧 Email: sameer.khan@example.com
+- 📧 Email: sameerkhanyt09@gmail.com
 - 📞 Phone: 7000646093
 
 ## 📊 GitHub Stats
@@ -39,6 +39,7 @@ A college project built with React and Node.js to manage leave applications.
 
 ## 📈 Contributions
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sameerkhan&layout=compact)
+![Commits](https://github-readme-streak-stats.herokuapp.com/?user=sameerkhan&theme=radical)
 
 ## ✨ Thank you for visiting my profile!
 Feel free to reach out if you have any questions or if you want to collaborate on a project. Let's build something amazing together!
